@@ -1,0 +1,13 @@
+2026-09-29 11:24:11,452 - ERROR - Validation failed on attempt 1: 4 validation errors for ClinicResponse
+nextSteps
+  Field required [type=missing, input_value={'message': 'Your appoint...oked.', 'urgent': False}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+contactInfo
+  Field required [type=missing, input_value={'message': 'Your appoint...oked.', 'urgent': False}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+symptomCheck
+  Field required [type=missing, input_value={'message': 'Your appoint...oked.', 'urgent': False}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+timestamp
+  Field required [type=missing, input_value={'message': 'Your appoint...oked.', 'urgent': False}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
